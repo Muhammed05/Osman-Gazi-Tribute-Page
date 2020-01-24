@@ -1,0 +1,35 @@
+body{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(201, 198, 198);
+}
+#main{
+    text-align: center;
+}
+#title{
+    font-size: 40px;
+}
+#secondtitle{
+    font-size: 20px;
+}
+#image{
+    width: 55%;
+}
+#tribute-info{
+    padding-top: 250px;
+    font-size: 20px;
+    text-align: center;
+}
+#familymembers{
+    text-align: left;
+    margin-left: 5%;
+    padding: 15px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background-color: white;
+    width: 500px;
+}
+#imag{
+
+}
